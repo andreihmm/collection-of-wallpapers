@@ -16,7 +16,7 @@ Just a reminder: you can get to use these wallpapers for free!
    - __Lively Wallpaper__ (it's free and can be found on Microsoft Store)
 
 There are two ways that you can get to use one of the pages above as your wallpaper:
-### First Way (recommended):
+### First method (recommended):
 - Access one of the repositories above
 - Click in the green "Code" button
 - Download ZIP and save wherever you want
@@ -27,7 +27,7 @@ There are two ways that you can get to use one of the pages above as your wallpa
 - Go to the extracted folder and select the index.html file
 - Then you click "Ok" and activate your wallpaper
 
-### Second way:
+### Second method:
 - Access one of the repositories above
 - Copy the URL in the About section (at the right of the page)
 - Open the Lively Wallpaper app
