@@ -3,15 +3,17 @@ Just a reminder: you can get to use these wallpapers for free!
 
 ## 🌐 Wallpaper Gallery
 - [SpongeBob Wallpaper](https://github.com/andreihmm/spongebob-wallpaper)
-  ![SpongeBob preview](assets/conchStreet2.png)
+[![SpongeBob preview](assets/conchStreet2.png)](https://github.com/andreihmm/spongebob-wallpaper)
 
 - [Lain Wallpaper](https://github.com/andreihmm/lain-wallpaper)
-  ![Lain preview](assets/lain)
+  [![Lain preview](assets/lain.png)](https://github.com/andreihmm/lain-wallpaper)
 
 
 ## Tutorial to use the wallpapers:
-### Requirements:
-- Lively Wallpaper (it's free can be found on Microsoft Store)
+
+### 📋 Requirements
+
+   - __Lively Wallpaper__ (it's free and can be found on Microsoft Store)
 
 There are two ways that you can get to use one of the pages above as your wallpaper:
 ### First Way (recommended):
