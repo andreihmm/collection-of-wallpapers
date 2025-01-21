@@ -3,7 +3,11 @@ Just a reminder: you can get to use these wallpapers for free!
 
 ## 🌐 Wallpaper Gallery
 - [SpongeBob Wallpaper](https://github.com/andreihmm/spongebob-wallpaper)
+  ![SpongeBob preview](assets/conchStreet2.png)
+
 - [Lain Wallpaper](https://github.com/andreihmm/lain-wallpaper)
+  ![Lain preview](assets/lain)
+
 
 ## Tutorial to use the wallpapers:
 ### Requirements:
@@ -29,4 +33,4 @@ There are two ways that you can get to use one of the pages above as your wallpa
 - Then you click "Ok" and activate your wallpaper
 
 ## 🌟 Contribute
-If you enjoy my work, feel free to give a ⭐ on the repositories or suggest improvements!
+If you enjoy my work, feel free to give a ⭐ on the repositories or suggest improvements! Also follow my GitHub profile!
